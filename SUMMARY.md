@@ -1,3 +1,3 @@
 # Summary
 
-* [Tutorial and Reference](website/content/HelpTutorialAndReference.cd)
+* [Tutorial and Reference](website/content/HelpTutorialAndReference.md)
