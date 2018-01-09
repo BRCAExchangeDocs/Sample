@@ -6,6 +6,7 @@ Welcome to the BRCA Exchange, where you can search BRCA1 and BRCA2 variants in o
 To begin, notice the search bar on the home page. This search bar accesses our databases directly, and can handle any identifying names for the variant or variants you are searching for. Here are some examples of what can be typed in this search box:
 
 * _BRCA1 or BRCA2 _
+* ADD A SEARCH ITEM
 * _BRCA1 c.1105G&gt;A_ \(Gene + HGVS Nucleotide\) 
 * _c.1105G&gt;A_ \(HGVS Nucleotide\)
 * _chr17:g.43058314_ \(Genomic Nomenclature\) 
